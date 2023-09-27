@@ -1,4 +1,4 @@
-# Plot quadratic equation y=x^2
+# Plotters quick-start example
 
 This is a simple example of how to use the `plotters` crate to plot a quadratic equation.
 
@@ -8,7 +8,7 @@ This is a simple example of how to use the `plotters` crate to plot a quadratic 
 cargo build
 ```
 
-## Run
+## Build and Run
 
 ```bash
 cargo run
